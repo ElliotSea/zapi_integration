@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZAPI_reporter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZAPI_reporter_jar</output-path>
+    <root id="archive" name="ZAPI_reporter.jar">
+      <element id="module-output" name="ZAPI_reporter" />
+      <element id="library" level="project" name="json-simple-1.1.1" />
+      <element id="library" level="project" name="okhttp-3.6.0" />
+      <element id="library" level="project" name="okio-1.11.0" />
+    </root>
+  </artifact>
+</component>
